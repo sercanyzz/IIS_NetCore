@@ -50,6 +50,7 @@ namespace IIS_NetCore
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
+                //version-09022022
             });
         }
     }
