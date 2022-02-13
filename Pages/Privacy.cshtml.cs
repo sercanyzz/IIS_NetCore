@@ -19,6 +19,7 @@ namespace IIS_NetCore.Pages
 
         public void OnGet()
         {
+            //test
         }
     }
 }
